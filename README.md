@@ -29,13 +29,12 @@ Tuned high performance antenna options that are soldered to the main board
 - Built-in LED 
 
 ### Power: 
-Utilizes two CR2032 coin cell batteries
-- 4\*AA batteries
+Utilizes  4\*AA batteries 
 - Reverse polarity protection
 - High-efficiency power converter
-- Batteries can last as long as two years with daily use
+- Batteries can last as long as 3 years with daily use
 - Battery voltage sensor (via divider)
-- Sleep current consumption 5uA
+- Sleep current consumption 3uA
 - Dimensions 160\*70\*40 mm
 - Water-proof, IP 64
 
