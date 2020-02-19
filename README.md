@@ -71,9 +71,7 @@ D2 | DIO0
 
 ### the Arduino example sketches
 
-Easy sensors API sketches. Can use both LoRa RFM95 and RFM69 radios
-XXXXXXXXXXXXXXXXXXX.ino  - the switchBox Sketch
-XXXXXXXXXXXXXXXXXXX.ino - the receiver serial Gateway Sketch
+check examples folder
 
  [MySensors](https://www.mysensors.org/) API. 
 
